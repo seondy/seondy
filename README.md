@@ -1,4 +1,6 @@
-### Hi there 👋
+# 안녕하세요, 😊
+
+## 사용성 향상을 고민하는 프론트엔드 개발자 선다영입니다.
 
 <!--
 **seondy/seondy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
