@@ -2,6 +2,9 @@
 
 ## 사용성 향상을 고민하는 프론트엔드 개발자 선다영입니다.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seondy&langs_count=8)](https://github.com/seondy/github-readme-stats)
+![Dayeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=seondy&show_icons=true&theme=radical)
+
 <!--
 **seondy/seondy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
